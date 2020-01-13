@@ -1,4 +1,8 @@
 # Deep Learning Nanodegree
-## Projects from [Udacity's Deep Learning Nanodegree](https://github.com/cassyay/deep-learning-nanodegree)
-
-
+## Projects from Udacity's Deep Learning Nanodegree
+### Predicting Bike-Sharing Patterns
+- 
+### Generate TV Scripts
+- 
+### Generate Faces
+- 
