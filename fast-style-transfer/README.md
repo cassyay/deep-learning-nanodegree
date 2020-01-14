@@ -1,12 +1,10 @@
-﻿# Data for proposal
+# Creating stylistic pictures from images 
+## Some example images:
+### House in Faroe Islands 
+[![House in Faroe Islands](https://i.postimg.cc/MG8xpw4r/faroe-islands-house.jpg)](https://postimg.cc/hXMN2kK9)
+[![Scream checkpoint](https://i.postimg.cc/hj2qsdGH/faroehouse-scream-art.jpg)](https://postimg.cc/hzQwPhTr)
+[![Rain-Princess checkpoint](https://i.postimg.cc/jqkbJPmf/faroehouse-rain-art.jpg)](https://postimg.cc/qgnYPhkB)
 
-**The following URLs contain links to download grocery data:**
-
- 
-
- - Fruits 360 dataset: [https://github.com/Horea94/Fruit-Images-Dataset](https://github.com/Horea94/Fruit-Images-Dataset)
- - Natural images of grocery items: [https://pythonawesome.com/contains-the-dataset-of-natural-images-of-grocery-items/](https://pythonawesome.com/contains-the-dataset-of-natural-images-of-grocery-items/)
- - Grocery items dataset:[http://www.cs.cmu.edu/~ehsiao/datasets.html](http://www.cs.cmu.edu/~ehsiao/datasets.html)
- - And the Freiberg dataset: [https://github.com/PhilJd/freiburg_groceries_dataset](https://github.com/PhilJd/freiburg_groceries_dataset)
-
-I am going to combine these datasets in to one dataset.
+### Trolltunga 
+[![Trolltunga](https://i.postimg.cc/Ls0cZM0p/trolltunga2.jpg)](https://postimg.cc/bGkCK4hC)
+[![Wave checkpoint](https://i.postimg.cc/B6KVLPKT/trolltunga2-wave.jpg)](https://postimg.cc/BLJgR6Nb)
