@@ -1,0 +1,12 @@
+conda create -n style-transfer python=3
+conda activate style-transfer
+conda install tensorflow scipy pillow
+pip install scipy==1.1.0
+pip install moviepy
+pip intall imageio-ffmpeg
+
+#download/clone fast-style-transfer files: https://github.com/lengstrom/fast-style-transfer
+#download checkpoints and place in the fast-style-transfer folder:  
+#cd into folder containing images and checkpoint files
+
+python evaluate.py --checkpoint ./<checkpoint>.ckpt --in-path ./<path_to_input_file> --out-path ./<output_image>.jpg
